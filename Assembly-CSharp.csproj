@@ -55,7 +55,9 @@
   <ItemGroup>
      <Compile Include="Assets\Script\BallBehaviour.cs" />
      <Compile Include="Assets\Script\DeadZone.cs" />
+     <Compile Include="Assets\Script\FollowBall.cs" />
      <Compile Include="Assets\Script\PlayerMovement.cs" />
+     <Compile Include="Assets\Script\SceneChanger.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/Users/searstienda/Documents/Platzi/Unity/PongPlatzi/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
